@@ -14,7 +14,7 @@ class Solution {
                 }
             }
         }
-        return new int[]{0, 0};
+        return new int[]{};
     }
 }
 // @lc code=end
