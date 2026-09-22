@@ -25,6 +25,8 @@ class Solution {
             }
         }
 
+        System.out.println(count);
+
         // 2 bucket : index = freq
         List<Integer>[] buckets = new ArrayList[nums.length + 1];
 
